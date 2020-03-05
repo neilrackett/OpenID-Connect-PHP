@@ -7,7 +7,7 @@
  *
  * OpenIDConnectClient for PHP5
  * Based on class by Michael Jett <mjett@mitre.org>
- * Modified by Mesmotronic <https://www.mesmotronic.com/> to support Code
+ * Modified by Neil Rackett <https://www.mesmotronic.com/> to support Code
  * Challenge and simplify use in development environment
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
